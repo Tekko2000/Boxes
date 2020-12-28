@@ -1,0 +1,16 @@
+div{
+    background-color:beige;
+    border:solid 1px black;
+    padding:10px;
+    margin:0 auto;
+    width:400px;
+    height:100px;
+}
+div p{
+    border:solid 3px black;
+    background-color:cyan;
+    width:75%;
+    height:50%;
+    padding:20px;
+    margin:0 auto;
+}

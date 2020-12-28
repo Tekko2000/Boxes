@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:wght@200&family=Montserrat:wght@300&display=swap');
+h2{
+    color:red;
+    font-family: 'Montserrat';
+}
+main p{
+    color:red;
+}
+p{
+    font-size:16px;
+    font-family: 'Literata';
+}
+img{
+    width:100px;
+    border:10px solid green;
+    border-radius: 50%;
+}
+div{
+    background-color:lightgray;
+    width:320px;
+}
+div p:first-child{
+    color:green;
+}

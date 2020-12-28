@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Poppins:wght@100&display=swap');
+header h1{
+    text-transform:uppercase;
+    font-family:'Cinzel';
+    color:#999;
+    text-indent:100px;
+}
+main{
+    background-image:url(https://images.unsplash.com/photo-1486312699619-be057cfc0342?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 80vh;
+    border-top:3px solid #ccc;
+    border-bottom:3px solid #ccc;
+}
+main div{
+    text-align: center;
+    font-family:'Cinzel';
+    margin:250px;
+}
+main div h1{
+    font-size:65px;
+    color:#ccc;
+}
+section div {
+    text-align:center;
+    color:#333;
+    margin:40px 0px 0px 0px;
+}
+section div h1{
+    text-transform:uppercase;
+}
+section img{
+    border-top:3px solid #ccc;
+    border-bottom:3px solid #ccc;
+    margin:100px 50px 0px 50px;
+}
+div{
+    text-align:left;
+    margin:50px 0px 0px 50px;
+}
+div h1{
+    text-align:center;
+    color:#333;
+    text-transform:uppercase;
+    font-family:'Cinzel'
+}
+div p{
+    font-family:'poppins';
+    word-spacing: 5px;
+}
+div p em{
+    color:red;
+    text-transform:uppercase;
+}
+div p span{
+    color:green;
+    text-transform:uppercase;
+}
+footer div{
+    text-align:center;
+    border-top:3px solid #ccc;
+}
+footer div a{
+    font-family:'Cinzel';
+    text-decoration: none;
+    text-transform:uppercase;
+    font-size:35px;
+    color:#333;
+}
+footer div a:hover{
+    color:lightgrey;
+}
